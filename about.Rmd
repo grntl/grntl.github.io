@@ -1,7 +1,7 @@
 ---
-title: "About this blog"
+title: "About"
 description: |
-  Some additional details about the blog
+  Hello! My name is Grant Li. I'm a student at Northwestern University. 
 ---
 
 ```{r setup, include=FALSE}

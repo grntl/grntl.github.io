@@ -2,18 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "About",
+      "description": "Hello! My name is Grant Li. I'm a student at Northwestern University. ",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-01-31T17:50:47-06:00"
+      "last_modified": "2023-01-31T17:56:47-06:00"
     },
     {
       "path": "index.html",
-      "title": "Personal Website",
+      "title": "Grant Li",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-01-31T17:50:48-06:00"
+      "last_modified": "2023-01-31T17:56:48-06:00"
     }
   ],
   "collections": ["posts/posts.json"]
