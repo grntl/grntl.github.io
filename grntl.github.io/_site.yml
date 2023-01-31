@@ -2,7 +2,8 @@ name: "Grant Li"
 title: "Grant Li"
 description: |
   Grant's Personal Website
-output_dir: "."
+base_url: https://grntl.github.io/
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
