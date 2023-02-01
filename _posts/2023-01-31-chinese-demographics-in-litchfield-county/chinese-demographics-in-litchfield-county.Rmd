@@ -7,14 +7,16 @@ author:
 date: 2023-01-31
 output:
   distill::distill_article:
-    self_contained: false
+    self-contained: false
     toc: true
-    toc_float: true
+    
+base_url: https://grntl.github.io/
 ---
 
 I recently learned how to do maps in an R data visualization class at school. I found it pretty interesting. For example, here is a map I made for Rochester, New York that shows major roads and elevation. We were told we could make this as simple or as cool as we wanted, so I actually tried to do something unique and cool. I've always loved topographical maps because I love war history, and topography is key to understanding much of war strategy.
 
 ![Rochester Elevation Map](rochesterElevation.png)
+^[The shape file for the Rochester municipal boundaries was obtained from https://data.cityofrochester.gov/datasets/8d69bba78ba94305a467e9e8bf497570_0/explore?location=43.185221%2C-77.619085%2C5.64]
 
 ### Chinese demographics in Litchfield County, CT
 
@@ -47,7 +49,7 @@ pal <- colorNumeric(
 )
 ```
 
-```{r, echo = FALSE, fig.align = 'center'}
+```{r, echo = FALSE, fig.align = 'center', preview = TRUE}
 leaflet() %>% 
   setView(-73.2400, 41.7900, zoom = 9) %>% 
   addPolygons(data = litchfield,
