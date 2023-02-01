@@ -1,5 +1,5 @@
 ---
-title: "Welcome :)"
+title: "Welcome :). Feel free to read my posts about what I find interesting below."
 site: distill::distill_website
 listing: posts
 ---
