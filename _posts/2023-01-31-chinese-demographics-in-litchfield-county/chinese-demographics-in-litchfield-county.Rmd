@@ -9,8 +9,7 @@ output:
   distill::distill_article:
     self-contained: false
     toc: true
-    
-base_url: https://grntl.github.io/
+base_url: https://grntl.github.io/posts/2023-01-31-chinese-demographics-in-litchfield-county/
 ---
 
 I recently learned how to do maps in an R data visualization class at school. I found it pretty interesting. For example, here is a map I made for Rochester, New York that shows major roads and elevation. We were told we could make this as simple or as cool as we wanted, so I actually tried to do something unique and cool. I've always loved topographical maps because I love war history, and topography is key to understanding much of war strategy.
