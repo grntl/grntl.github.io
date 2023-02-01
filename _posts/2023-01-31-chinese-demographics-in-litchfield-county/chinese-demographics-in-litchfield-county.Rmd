@@ -42,7 +42,7 @@ pal <- colorNumeric(
 )
 ```
 
-```{r, echo = FALSE}
+```{r, echo = FALSE, fig.align = 'center'}
 leaflet() %>% 
   setView(-73.2400, 41.7900, zoom = 9) %>% 
   addPolygons(data = litchfield,
