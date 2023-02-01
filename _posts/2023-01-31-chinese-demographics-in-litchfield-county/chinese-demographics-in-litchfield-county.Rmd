@@ -10,7 +10,7 @@ output:
     self_contained: false
 ---
 
-I recently learned how to do maps in an R data visualization class at school. I found it pretty interesting. For example, here is a map I made for Rochester, New York that shows major roads an elevation. We were told we could make this as simple or as cool as we wanted, so I actually tried to do something unique and cool. I've always loved topographical maps because I love war history, and topography is key to understanding much of war strategy. 
+I recently learned how to do maps in an R data visualization class at school. I found it pretty interesting. For example, here is a map I made for Rochester, New York that shows major roads and elevation. We were told we could make this as simple or as cool as we wanted, so I actually tried to do something unique and cool. I've always loved topographical maps because I love war history, and topography is key to understanding much of war strategy. 
 
 ![Rochester Elevation Map](rochesterElevation.png)
 Later, there was a bonus (worth 0 points?!) to make an interactive map on your own. They did not actually teach us how to do the interactive part, so it was entirely up to us whether we wanted to teach ourselves or not. After doing a lot of digging and research, I figured out how to make an interactive map for the Chinese population in Litchfield County, Connecticut. I was specifically interested in this particular county because I am Chinese and grew up in New Milford, a town in Litchfield County.
