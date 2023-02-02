@@ -19,7 +19,6 @@ I recently learned how to do maps in an R data visualization class at school. I 
 knitr::include_graphics(here::here('_posts/2023-01-31-chinese-demographics-in-litchfield-county/rochesterElevation.png'))
 ```
 *@R-elevatr; @R-sf; @R-tidycensus; @R-viridis; @sf2018; @tidyverse2019;^[https://data.cityofrochester.gov/datasets/8d69bba78ba94305a467e9e8bf497570_0/explore?location=43.185221%2C-77.619085%2C5.64]*
-
 ### Chinese demographics in Litchfield County, CT
 
 Later, there was a bonus (worth 0 points?!) to make an interactive map on your own. They did not actually teach us how to do the interactive part, so it was entirely up to us whether we wanted to teach ourselves or not. After doing a lot of digging and research, I figured out how to make an interactive map for the Chinese population in Litchfield County, Connecticut. I was specifically interested in this particular county because I am Chinese and grew up in New Milford, a town in Litchfield County.
