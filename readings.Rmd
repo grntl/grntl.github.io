@@ -7,11 +7,17 @@ output:
 ---  
 # 2023  
 ## February  
+**Title**: [Civilization States are Profoundly Illiberal](https://www.noemamag.com/civilization-states-are-profoundly-illiberal/)  
+**Author**: Shashi Tharoor  
+**Platform**: Noema  
+**Date**: 02-02-2023  
+*Noema* ran this as a response to Bruno Maçães's own piece in the same magazine a few days earlier. The points made here are pretty simple, but good. Overall, liberalism as a particular form of government might not necessarily be good for every country out there, but there are certain principles that liberalism places at its core that cannot be done without. 
+
 **Title**: [Suffering with God](https://www.plough.com/en/topics/faith/discipleship/suffering-with-god)  
 **Author**: Susannah Heschel  
 **Platform**: Plough  
 **Date**: 03-02-2021  
-This is an article from quite a while ago that I just found. Written by Susannah Heschel about her prominent rabbi father, the piece talks about his various teachings. I'm not Jewish, but I really liked a lot of it, much of which applies well to Christians. The one bit that stuck out to me the most was the fact that we are made in God's image, so there what others see in God will inevitably be us, that we are the ones ultimately responsible for how God appears in this world. 
+This is an article from quite a while ago that I just found. Written by Susannah Heschel about her prominent rabbi father, the piece talks about his various teachings. I'm not Jewish, but I really liked a lot of it, much of which applies well to Christians. The one bit that stuck out to me the most was that because we are made in God's image, what others see in God will inevitably be us, that we are the ones ultimately responsible for how God appears in this world. 
 
 ## January  
 **Title**: [Has Academia Ruined Literary Criticism?](https://archive.is/LAdzs)  
@@ -30,14 +36,14 @@ Hans Zeiger writes about his graduate school project, which was a book about the
 **Author**: Myles Werntz  
 **Platform**: Comment  
 **Date**: 01-12-2023  
-Before I read this piece, I thought that a benefit of church and faith is that it gives you community, and that was a core part of being religious. After reading this piece, I now realize that using church/faith to beat back true loneliness is miguided, as true loneliness is an integral part of the Christian experience, if not the human condition in general. 
+Before I read this piece, I thought that a benefit of church and faith is that it gives you community, and that it was a core part of being religious. After reading this piece, I now realize that using church or faith to beat back true loneliness is miguided, as true loneliness is an integral part of the Christian experience, if not the human condition in general. 
 
 **Title**: [Pope Benedict Wasn’t Conservative. He Was Something Much More Surprising.
 ](https://archive.is/Oi5S4#selection-313.0-320.0)  
 **Author**: Matthew Walther  
 **Platform**: New York Times  
 **Date**: 01-06-2023  
-It's too bad this article didn't at least acknowledge the Catholic church's sexual abuse that occurred under his time as pope. Either way, this article was incredibly interesting. I'm not Catholic, but I can still appreciate a lot of this. There are a lot of gems in this piece, but one of my favorites was his discussion of Pope Benedict's view where, "the 'struggling and questioning' of agnostics was an admirable posture, a radical openness that ought to motivate believers to 'to purify their faith, so that God, the true God, becomes accessible.'"
+It's too bad this article didn't at least acknowledge the Catholic church's sexual abuse that occurred under Pope Benedict. Either way, this article was incredibly interesting. I'm not Catholic, but I can still appreciate a lot of this. There are a lot of gems in this piece, but one of my favorites was his discussion of Pope Benedict's view where, "the 'struggling and questioning' of agnostics was an admirable posture, a radical openness that ought to motivate believers to 'to purify their faith, so that God, the true God, becomes accessible.'"
 
 **Title**: [How to Bear Witness](https://themillions.com/2023/01/how-to-bear-witness-husband.html)  
 **Author**: Lauren Nossett  
@@ -49,7 +55,7 @@ Lauren Nossett writes about the grief that came with losing her husband, and how
 **Author**: James Panero  
 **Platform**: The New Criterion  
 **Date**: 01-??-2023  
-This was a piece that meanders through Edward Hopper's art and in particular how it reflected some of Hopper's experiences in New York City. Although Hopper's lived life strayed into some NIMBYism, I think we can all appreciate what this piece writes was the true insight of Hopper's art: a view into the normal, regular people, who were dislocated in their own city that was changing far too quickly, "Edward Hopper (1882–1967) was the painter of small-town America. This we know. That his small town happened to be New York City, his home for nearly sixty years, we may not know."
+This was a piece that meanders through Edward Hopper's art and in particular how it reflected some of Hopper's experiences in New York City. Although Hopper's life strayed into some NIMBYism, I think we can all appreciate what this piece writes was the true insight of Hopper's art: a view into the normal, regular people, who were dislocated in their own city that was changing far too quickly, "Edward Hopper (1882–1967) was the painter of small-town America. This we know. That his small town happened to be New York City, his home for nearly sixty years, we may not know."
 
 # 2022
 ## December
@@ -63,4 +69,4 @@ Zhang Taisu is a professor at Yale Law. He wrote "My Father and I" (my translati
 **Author**: Mujib Mashal  
 **Platform**: New York Times  
 **Date**: 12-18-2022  
-This article documents an Urdu poetry festival in India that draws massive amounts of people. The scenes described were wonderful, and the translated poetry was even better. I often feel like our cultures don't have and need this kind of passion and love for our respective languages. We also need the kind of inclusivity that this Urdu poetry festival has, where anyone can stand on a chair and recite their poems, that keeps a language healthy and organic in quality.
+This article documents an Urdu poetry festival in India that draws massive amounts of people. The scenes described are wonderful, and the translated poetry even better. I often feel like our cultures don't have and need this kind of passion and love for our respective languages. We also need the kind of inclusivity that this Urdu poetry festival has, where anyone can stand on a chair and recite their poems. It keeps a language healthy in an organic way.
