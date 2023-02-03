@@ -1,0 +1,66 @@
+---
+title: 'Readings'
+description: "I don't read as many books as I should, but I do read a lot of articles. Below are my favorites, organized by the month I read them. I've used archive.is links for all articles that normally would have been paywalled."
+output:
+  distill::distill_article:
+    toc: true
+---  
+# 2023  
+## February  
+**Title**: [Suffering with God](https://www.plough.com/en/topics/faith/discipleship/suffering-with-god)  
+**Author**: Susannah Heschel  
+**Platform**: Plough  
+**Date**: 03-02-2021  
+This is an article from quite a while ago that I just found. Written by Susannah Heschel about her prominent rabbi father, the piece talks about his various teachings. I'm not Jewish, but I really liked a lot of it, much of which applies well to Christians. The one bit that stuck out to me the most was the fact that we are made in God's image, so there what others see in God will inevitably be us, that we are the ones ultimately responsible for how God appears in this world. 
+
+## January  
+**Title**: [Has Academia Ruined Literary Criticism?](https://archive.is/LAdzs)  
+**Author**: Merve Emre  
+**Platform**: The New Yorker  
+**Date**: 01-16-2023  
+Just incredible. This piece expands far beyond just literary criticism: it instead takes on literary culture and academia as a whole. Literary criticism has been subsumed by academia, but academia itself is so distorted and out of touch with those actual regular consumers of literature that literary criticism has died alongside the demise of academia in the humanities. I have often personally felt this as both an English literature major and political theory-interested political science major, where academic writing has become so esoteric and divorced from reality that while I still firmly believe everyone needs a humanities education in some form, I can see why people are turned off from it. We can dream of a better future where both academia and literary criticism are healthier when we drop the pretentiousness and make simple lay readers our audience again.
+
+**Title**: [Communities of Memory](https://www.frontporchrepublic.com/2023/01/communities-of-memory/)  
+**Author**: Hans Zeiger  
+**Platform**: Front Porch Republic  
+**Date**: 01-13-2023  
+Hans Zeiger writes about his graduate school project, which was a book about the World War II veterans from his hometown Puyallup, Washington. From doing this project, he learned that the true well-springs of both our love of country and our well-being finds its source in a connection to the local communities from which we come. These connections inform us on who we are and who we ought to be.  
+
+**Title**: [The Solitude of the Saints](https://comment.org/the-solitude-of-the-saints/)  
+**Author**: Myles Werntz  
+**Platform**: Comment  
+**Date**: 01-12-2023  
+Before I read this piece, I thought that a benefit of church and faith is that it gives you community, and that was a core part of being religious. After reading this piece, I now realize that using church/faith to beat back true loneliness is miguided, as true loneliness is an integral part of the Christian experience, if not the human condition in general. 
+
+**Title**: [Pope Benedict Wasn’t Conservative. He Was Something Much More Surprising.
+](https://archive.is/Oi5S4#selection-313.0-320.0)  
+**Author**: Matthew Walther  
+**Platform**: New York Times  
+**Date**: 01-06-2023  
+It's too bad this article didn't at least acknowledge the Catholic church's sexual abuse that occurred under his time as pope. Either way, this article was incredibly interesting. I'm not Catholic, but I can still appreciate a lot of this. There are a lot of gems in this piece, but one of my favorites was his discussion of Pope Benedict's view where, "the 'struggling and questioning' of agnostics was an admirable posture, a radical openness that ought to motivate believers to 'to purify their faith, so that God, the true God, becomes accessible.'"
+
+**Title**: [How to Bear Witness](https://themillions.com/2023/01/how-to-bear-witness-husband.html)  
+**Author**: Lauren Nossett  
+**Platform**: The Millions  
+**Date**: 01-04-2023  
+Lauren Nossett writes about the grief that came with losing her husband, and how she found motivation to keep going. She is a writer, he was a musician. She writes, "what is literature and music other than acts of love that we share with others? And in loving and creating, we make life a little easier for one another."
+
+**Title**: [Rear Window](https://comment.org/the-solitude-of-the-saints/)  
+**Author**: James Panero  
+**Platform**: The New Criterion  
+**Date**: 01-??-2023  
+This was a piece that meanders through Edward Hopper's art and in particular how it reflected some of Hopper's experiences in New York City. Although Hopper's lived life strayed into some NIMBYism, I think we can all appreciate what this piece writes was the true insight of Hopper's art: a view into the normal, regular people, who were dislocated in their own city that was changing far too quickly, "Edward Hopper (1882–1967) was the painter of small-town America. This we know. That his small town happened to be New York City, his home for nearly sixty years, we may not know."
+
+# 2022
+## December
+**Title**: [父亲和我](https://mp.weixin.qq.com/s/cp8mqwdulZoRF7GqaJmDSg)  
+**Author**: 张泰苏 (Zhang Taisu)  
+**Platform**: 微信 (WeChat)  
+**Date**: 12-29-2022  
+Zhang Taisu is a professor at Yale Law. He wrote "My Father and I" (my translation of the title) about his father, who was a prominent philosopher at Peking University. In reflecting on his father's recent passing, Zhang writes about how he and his father differed in the ways that they enjoyed life: Zhang was always too rational and occupied by the ends, and had a hard time picking up the easy-going attitude of his father who could enjoy the moment and the process, even when the ends were not necessarily achieved. I read the automated translation, but it was still very good. 
+
+**Title**: [Where Romantic Poetry in a Fading Language Draws Stadium Crowds](https://archive.is/kCTFh)  
+**Author**: Mujib Mashal  
+**Platform**: New York Times  
+**Date**: 12-18-2022  
+This article documents an Urdu poetry festival in India that draws massive amounts of people. The scenes described were wonderful, and the translated poetry was even better. I often feel like our cultures don't have and need this kind of passion and love for our respective languages. We also need the kind of inclusivity that this Urdu poetry festival has, where anyone can stand on a chair and recite their poems, that keeps a language healthy and organic in quality.
