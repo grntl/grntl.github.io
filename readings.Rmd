@@ -1,6 +1,6 @@
 ---
 title: 'Readings'
-description: "I don't read as many books as I should, but I do read a lot of articles. Below are my favorites, organized by the month I read them. I've used archive.is links for all articles that are otherwise paywalled."
+description: "I don't read as many books as I should, but I do read a lot of articles. Below are my favorites, organized by the month I read them. I've used archive.is links for all articles that normally would have been paywalled."
 output:
   distill::distill_article:
     toc: true
