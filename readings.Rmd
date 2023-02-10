@@ -6,12 +6,18 @@ output:
     toc: true
 ---  
 # 2023  
-## February  
+## February
+**Title**: [How Do You Serve a Friend in Despair?](https://archive.is/byYLQ)  
+**Author**: David Brooks  
+**Platform**: New York Times  
+**Date**: 02-09-2023  
+I'm not exactly the biggest fan of David Brooks, but there's no denying that he's a pretty great writer. This piece was good, although at the middle, the series of quotes on depression felt a little out of place. But overall, I loved the vulnerability and topic of the piece. I feel like the theme of feeling helpless to help the ones we love the most tends to be a common theme among my favorite books and readings: *East of Eden*, *Gilead*, *A River Runs Through It*, and even *The Brothers Karamazov*.  
+
 **Title**: [Civilization States are Profoundly Illiberal](https://www.noemamag.com/civilization-states-are-profoundly-illiberal/)  
 **Author**: Shashi Tharoor  
 **Platform**: Noema  
 **Date**: 02-02-2023  
-*Noema* ran this as a response to Bruno Maçães's own piece in the same magazine a few days earlier. The points made here are pretty simple, but good. Overall, liberalism as a particular form of government might not necessarily be good for every country out there, but there are certain principles that liberalism places at its core that cannot be done without. 
+*Noema* ran this as a response to Bruno Maçães's own piece in the same magazine a few days earlier. The points made here are pretty simple, but good. Overall, liberalism as a particular form of government might not necessarily be good for every country out there, but there are certain principles that liberalism places at its core that cannot be done without.
 
 **Title**: [Suffering with God](https://www.plough.com/en/topics/faith/discipleship/suffering-with-god)  
 **Author**: Susannah Heschel  
