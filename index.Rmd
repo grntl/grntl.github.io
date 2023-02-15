@@ -1,5 +1,20 @@
 ---
-title: 'Welcome :)'
 site: distill::distill_website
-listing: posts
+output: distill::distill_article
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+```
+
+
+```{r, layout="l-screen-inset", echo = FALSE}
+knitr::include_graphics('empireoflight.jpg')
+```
+[*Empire of Light, II* (1950), oil on canvas, 79 x 99 cm. Museum of Modern Art, New York]{style="float:center"}
