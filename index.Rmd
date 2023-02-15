@@ -17,4 +17,4 @@ d-title {
 ```{r, layout="l-screen-inset", echo = FALSE}
 knitr::include_graphics('empireoflight.jpg')
 ```
-[*Empire of Light, II* (1950), oil on canvas, 79 x 99 cm. Museum of Modern Art, New York]{style="float:center"}
+[René Magritte (1898-1967), *Empire of Light, II* (1950), oil on canvas, 79 x 99 cm. Museum of Modern Art, New York]{style="float:center"}
