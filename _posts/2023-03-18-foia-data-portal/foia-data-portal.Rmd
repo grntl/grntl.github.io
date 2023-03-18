@@ -1,7 +1,7 @@
 ---
-title: "FOIA Data Portal"
+title: "FOIA Data Dashboard"
 description: |
-  A portal that I built for FOIA Reports data
+  A dashboard I built for FOIA data
 author:
   - name: Grant Li
 date: 2023-03-18
@@ -11,10 +11,10 @@ output:
     toc: true
 ---
 
-For our final project in my data science class, we had the option to either make static data visualizations, or a shiny application. I decided to make a shiny application. You can find this portal at https://grantli.shinyapps.io/foiaapp/. 
+For our final project in my data science class, we had the option to either make static data visualizations, or a shiny application. I decided to make a shiny application with a data dashboard on Freedom of Information Act (FOIA) data. You can find this dashboard at https://grantli.shinyapps.io/foiaapp/. 
 
-My research at the Deportation Research Clinic involves a lot of Freedom of Information Act (FOIA) requests, particularly with the Executive Office of Immigration Review (EOIR). The government often takes far longer to respond than what the law allows for. To force the government to follow the law and respond to our FOIA requests, we file complaints in court. One of the arguments that we have wanted to make with regards to this is that our the government under-funds EOIR's FOIA response capabilities. To help prove this and help others have access to similar information, I built this portal using Department of Justice (DOJ) FOIA data. 
+My research at the Deportation Research Clinic involves a lot of FOIA requests, particularly with the Executive Office of Immigration Review (EOIR). The government often takes far longer to respond than what the law allows for. To force the government to follow the law and respond to our FOIA requests, we file complaints in court. One of the arguments that we have wanted to make with regards to this is that our the government under-funds EOIR's FOIA response capabilities. To help prove this and help others have access to similar information, I built this portal using Department of Justice (DOJ) FOIA data. 
 
 Essentially, government departments or agencies must put out a FOIA report every year with statistics on how they responded to FOIA requests that year. Unfortunately, up until now, much of this data was quite inaccessible. They are usually in XML files or PDF tables, and not aggregated well across agencies. There have been no data visualizations of this type of data. Luckily, there is a data portal where you can download CSV's (comma-separated values, just think Excel spreadsheet) of department level data at: https://www.foia.gov/reports.html. Unfortunately the data portal sort of broke down (for me, at least) every time too many statistical measures were selected, so I downloaded them separately and manually collated them together. 
 
-I hope that providing this portal will help make this data more accessible and understandable. Already, the data corroborates the argument that the EOIR's FOIA respose capabilities are seriously underfunded. In the future, I intend on expanding it if I can to provide data for not just the DOJ. 
+I hope that providing this dashboard will help make this data more accessible and understandable. Already, the data corroborates the argument that the EOIR's FOIA respose capabilities are seriously underfunded. In the future, I intend on expanding it if I can to provide data for not just the DOJ. 
