@@ -28,21 +28,21 @@ Because our variable subsetting algorithms didn't allow for categorical variable
 
 I decided that instead, I would try turn all the categorical variables into dummies, and do it all over again.  
 
-> A dummy variable is essentially turning, for example, a variable that has yes or no responses into two separate columns of yes and no, with 1s and 0s as the response. This way, the data becomes numerical and can be put into coded functions that otherwise only took continuous/numerical variables. Additionally, it allows the model to choose only the dummy variables that matter, like perhaps only the yes column with 1s and 0s is statistically significant, and the no column with 1s and 0s is not.
+> A dummy variable is essentially turning, for example, a variable that has yes or no responses into two separate columns of yes and no, with 1s and 0s as the response. This way, the data becomes numerical and can be put into functions that otherwise only took continuous/numerical variables. Additionally, it allows the model to choose only the dummy variables that matter, like perhaps only the yes column with 1s and 0s is statistically significant, and the no column with 1s and 0s is not.
 
 ```{r, echo = FALSE, fig.align = 'center', out.width = '25%'}
 knitr::include_graphics(here::here('_posts/2023-03-21-modeling-competition/vars.png'))
 ```
 
-I technically should have done exploratory data analysis (EDA) and picked a few variables that would have worked best. But since my computer could handle it, I turned every single categorical variable into dummy variables, except emp_title and earliest_cr_line, since those had just way too many categories that it honestly wasn't worth it. Even then, the forward stepwise variable subsetting took 20 minutes each time. 
+I technically should have done exploratory data analysis (EDA) and picked a few variables that would have worked best. But since my computer could handle it, I turned every single categorical variable into dummy variables, except emp_title and earliest_cr_line, since those had just way too many categories that it honestly wasn't worth it. Even then, the forward stepwise variable subsetting took 20 minutes each time. While I ended up pursuing the brute-force method, I did end up doing EDA at the end which basically corroborated everything that was produced below.
 
-Since our k-folds cross validation function only takes 4 variables, I used the model with the 4 best predictors to find what I should put into the k-folds cross validation function. The best 4 variables were out_prncp_inv, loan_amnt, int_rate, and term_36_months, which is a dummy variable created from the variable term. 
+Since our k-folds cross validation function only takes 4 variables, I used the model with the 4 best predictors to find what I should put into the k-folds cross validation function. The best 4 variables were out_prncp_inv, loan_amnt, int_rate, and term_36_months, which is a dummy variable created from the term variable 
 
 ```{r, echo = FALSE, fig.align = 'center', out.width = '60%'}
 knitr::include_graphics(here::here('_posts/2023-03-21-modeling-competition/best4.png'))
 ```
 
-Then I put this through k-folds cross-validation, which added selected interactions. The k-folds cross validation was pretty impressive, because after working on this for days, getting this thing to work for the first time, it kind of stunned me to just watch the RMSE keep going down like that.
+Then I put this through k-folds cross-validation, which added selected interactions. The k-folds cross validation was pretty impressive, because after working on this for days, it kind of stunned me to just watch the RMSE keep going down like that all the way to the 400s.
 
 ```{r, echo = FALSE, fig.align = 'center', out.width = '70%'}
 knitr::include_graphics(here::here('_posts/2023-03-21-modeling-competition/kfolds.png'))
@@ -62,7 +62,13 @@ I then used the BIC curve to find the optimal number of predictors from the most
 knitr::include_graphics(here::here('_posts/2023-03-21-modeling-competition/bic.png'))
 ```
 
-The curve says 33, but I found the 32 best predictors, not that the difference really matters that much. I tested each one of them by adding them into the model formula that we got from the k-folds cross validation, and saw if it decreased RMSE. After doing so, the ones that decreased the RMSE by any appreciable amount were grade_a and total_rec_late_fee. The final model formula looked like this, including the selected interactions earlier:
+The curve says 33, but I found the 32 best predictors, not that the difference really matters that much. Here are some of them, since I literally can't fit them in my screenshot.
+
+```{r, echo = FALSE, fig.align = 'center', out.width = '50%'}
+knitr::include_graphics(here::here('_posts/2023-03-21-modeling-competition/preds32.png'))
+```
+
+I tested each one of them by adding them into the model formula that we got from the k-folds cross validation, and saw if it decreased RMSE. After doing so, the ones that decreased the RMSE by any appreciable amount were grade_a and total_rec_late_fee. The final model formula looked like this, including the selected interactions earlier:
 
 ```{r, eval = FALSE}
 # K-folds model with new predictors after testing predictors that appear in the 

@@ -134,7 +134,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["best4.png","bic.png","kfolds.png","modeling-competition_files/anchor-4.2.2/anchor.min.js","modeling-competition_files/bowser-1.9.3/bowser.min.js","modeling-competition_files/distill-2.2.21/template.v2.js","modeling-competition_files/header-attrs-2.20/header-attrs.js","modeling-competition_files/jquery-3.6.0/jquery-3.6.0.js","modeling-competition_files/jquery-3.6.0/jquery-3.6.0.min.js","modeling-competition_files/jquery-3.6.0/jquery-3.6.0.min.map","modeling-competition_files/popper-2.6.0/popper.min.js","modeling-competition_files/tippy-6.2.7/tippy-bundle.umd.min.js","modeling-competition_files/tippy-6.2.7/tippy-light-border.css","modeling-competition_files/tippy-6.2.7/tippy.css","modeling-competition_files/tippy-6.2.7/tippy.umd.min.js","modeling-competition_files/webcomponents-2.0.0/webcomponents.js","privRank.png","pubRank.png","selected.png","vars.png"]}
+  {"type":"character","attributes":{},"value":["best4.png","bic.png","kfolds.png","modeling-competition_files/anchor-4.2.2/anchor.min.js","modeling-competition_files/bowser-1.9.3/bowser.min.js","modeling-competition_files/distill-2.2.21/template.v2.js","modeling-competition_files/header-attrs-2.20/header-attrs.js","modeling-competition_files/jquery-3.6.0/jquery-3.6.0.js","modeling-competition_files/jquery-3.6.0/jquery-3.6.0.min.js","modeling-competition_files/jquery-3.6.0/jquery-3.6.0.min.map","modeling-competition_files/popper-2.6.0/popper.min.js","modeling-competition_files/tippy-6.2.7/tippy-bundle.umd.min.js","modeling-competition_files/tippy-6.2.7/tippy-light-border.css","modeling-competition_files/tippy-6.2.7/tippy.css","modeling-competition_files/tippy-6.2.7/tippy.umd.min.js","modeling-competition_files/webcomponents-2.0.0/webcomponents.js","preds32.png","privRank.png","pubRank.png","selected.png","vars.png"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
 <meta name="distill:offset" content="../.."/>
@@ -2252,17 +2252,17 @@ d-appendix d-footnote-list a.footnote-backlink {
 <h3 id="on-the-right-track">On the right track</h3>
 <p>I decided that instead, I would try turn all the categorical variables into dummies, and do it all over again.</p>
 <blockquote>
-<p>A dummy variable is essentially turning, for example, a variable that has yes or no responses into two separate columns of yes and no, with 1s and 0s as the response. This way, the data becomes numerical and can be put into coded functions that otherwise only took continuous/numerical variables. Additionally, it allows the model to choose only the dummy variables that matter, like perhaps only the yes column with 1s and 0s is statistically significant, and the no column with 1s and 0s is not.</p>
+<p>A dummy variable is essentially turning, for example, a variable that has yes or no responses into two separate columns of yes and no, with 1s and 0s as the response. This way, the data becomes numerical and can be put into functions that otherwise only took continuous/numerical variables. Additionally, it allows the model to choose only the dummy variables that matter, like perhaps only the yes column with 1s and 0s is statistically significant, and the no column with 1s and 0s is not.</p>
 </blockquote>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="vars.png" width="25%" style="display: block; margin: auto;" /></p>
 </div>
-<p>I technically should have done exploratory data analysis (EDA) and picked a few variables that would have worked best. But since my computer could handle it, I turned every single categorical variable into dummy variables, except emp_title and earliest_cr_line, since those had just way too many categories that it honestly wasn’t worth it. Even then, the forward stepwise variable subsetting took 20 minutes each time.</p>
-<p>Since our k-folds cross validation function only takes 4 variables, I used the model with the 4 best predictors to find what I should put into the k-folds cross validation function. The best 4 variables were out_prncp_inv, loan_amnt, int_rate, and term_36_months, which is a dummy variable created from the variable term.</p>
+<p>I technically should have done exploratory data analysis (EDA) and picked a few variables that would have worked best. But since my computer could handle it, I turned every single categorical variable into dummy variables, except emp_title and earliest_cr_line, since those had just way too many categories that it honestly wasn’t worth it. Even then, the forward stepwise variable subsetting took 20 minutes each time. While I ended up pursuing the brute-force method, I did end up doing EDA at the end which basically corroborated everything that was produced below.</p>
+<p>Since our k-folds cross validation function only takes 4 variables, I used the model with the 4 best predictors to find what I should put into the k-folds cross validation function. The best 4 variables were out_prncp_inv, loan_amnt, int_rate, and term_36_months, which is a dummy variable created from the term variable</p>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="best4.png" width="60%" style="display: block; margin: auto;" /></p>
 </div>
-<p>Then I put this through k-folds cross-validation, which added selected interactions. The k-folds cross validation was pretty impressive, because after working on this for days, getting this thing to work for the first time, it kind of stunned me to just watch the RMSE keep going down like that.</p>
+<p>Then I put this through k-folds cross-validation, which added selected interactions. The k-folds cross validation was pretty impressive, because after working on this for days, it kind of stunned me to just watch the RMSE keep going down like that all the way to the 400s.</p>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="kfolds.png" width="70%" style="display: block; margin: auto;" /></p>
 </div>
@@ -2277,7 +2277,11 @@ d-appendix d-footnote-list a.footnote-backlink {
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="bic.png" width="50%" style="display: block; margin: auto;" /></p>
 </div>
-<p>The curve says 33, but I found the 32 best predictors, not that the difference really matters that much. I tested each one of them by adding them into the model formula that we got from the k-folds cross validation, and saw if it decreased RMSE. After doing so, the ones that decreased the RMSE by any appreciable amount were grade_a and total_rec_late_fee. The final model formula looked like this, including the selected interactions earlier:</p>
+<p>The curve says 33, but I found the 32 best predictors, not that the difference really matters that much. Here are some of them, since I literally can’t fit them in my screenshot.</p>
+<div class="layout-chunk" data-layout="l-body">
+<p><img src="preds32.png" width="50%" style="display: block; margin: auto;" /></p>
+</div>
+<p>I tested each one of them by adding them into the model formula that we got from the k-folds cross validation, and saw if it decreased RMSE. After doing so, the ones that decreased the RMSE by any appreciable amount were grade_a and total_rec_late_fee. The final model formula looked like this, including the selected interactions earlier:</p>
 <div class="layout-chunk" data-layout="l-body">
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># K-folds model with new predictors after testing predictors that appear in the </span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># 32 predictor model</span></span>
