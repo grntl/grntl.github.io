@@ -9,8 +9,7 @@ output:
   distill::distill_article:
     self_contained: false
     toc: true
-base_url: https://grntl.github.io/posts/2023-03-21-modeling-competition/
-preview: _posts/2023-03-21-modeling-competition/selected.png
+base_url: https://www.remgrandt.com/posts/2023-03-21-modeling-competition/
 ---
 
 In the data science class I'm taking, they hosted a model-building competition across all three sections of the class, meaning there were at least 100 students participating, maybe 200. We had to build a model to predict the amount of money a bank would make back on a loan. The goal was to build a linear regression model that would produce the lowest RMSE.
@@ -51,7 +50,7 @@ knitr::include_graphics(here::here('_posts/2023-03-21-modeling-competition/kfold
 
 These were the interactions that the k-folds cross validation found.
 
-```{r, echo = FALSE, fig.align = 'center', out.width = '100%'}
+```{r, echo = FALSE, fig.align = 'center', out.width = '100%', preview = TRUE}
 knitr::include_graphics(here::here('_posts/2023-03-21-modeling-competition/selected.png'))
 ```
 
