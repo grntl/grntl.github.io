@@ -12,17 +12,19 @@ output:
 base_url: https://www.remgrandt.com/posts/2023-03-21-modeling-competition/
 ---
 
-In the data science class I'm taking, they hosted a model-building competition across all three sections of the class, meaning there were at least 100 students participating, maybe 200. We had to build a model to predict the amount of money a bank would make back on a loan. The goal was to build a linear regression model that would produce the lowest RMSE.
+In the data science class I'm taking, they hosted a model-building competition across all three sections of the class, meaning there were at least 150 students participating, maybe 200. We had to build a model to predict the amount of money a bank would make back on a loan. The goal was to build a linear regression model that would produce the lowest RMSE.
 
-> Root Mean Squared Error, basically you can think of it as a statistical measure to see how accurate your model is. In general you want it smaller.
+> RMSE is Root Mean Squared Error. Basically you can think of it as a statistical measure to see how accurate your model is. In general you want it smaller.
 
 ### On the wrong track
 
 At the start, I did VIF testing on all the continuous variables. The VIF testing showed that none of them were egregiously multicollinear, only 2 or 3 of them were in the 5-10 range, which our professors had said was not good, but can be accepted nevertheless.  
 
-> VIF stands for Variable Inflation Factor, which basically just measures how much multicollinearity there is between your variables. Multicollinearity is where two variables are highly correlated, when really the variables in the model should be independent.  
+> VIF stands for Variable Inflation Factor, which basically just measures how much multicollinearity there is between your variables. Multicollinearity is where two variables are highly correlated, when really the variables in the model should be independent. VIF testing will give what you can think of as a multicollinearity rating for each variable, and usually having the number be below 5 means that it is good, whereas numbers from 5-10 are suspect, and above 10 means that the variable is highly correlated with another. The lower the number, the better.
 
 Because our variable subsetting algorithms didn't allow for categorical variables, I simply tried making models by running forward stepwise variable subsetting and then K-folds cross validation on the continuous variables and then adding categorical variables into the model after. I tried this for a day or two and it was clear that my RMSE wasn't going to get under the 650 threshold that we had to get under for full credit on this assignment. It was stuck at 800 for a while.
+
+> Without getting too into the nitty-gritty, forward stepwise variable subsetting is a algorithm that allows you to pick the best set of predictors from your variables. K-folds cross validation is a method which helps compare and select models. 
 
 ### On the right track
 
@@ -36,7 +38,7 @@ knitr::include_graphics(here::here('_posts/2023-03-21-modeling-competition/vars.
 
 I technically should have done exploratory data analysis (EDA) and picked a few variables that would have worked best. But since my computer could handle it, I turned every single categorical variable into dummy variables, except emp_title and earliest_cr_line, since those had just way too many categories that it honestly wasn't worth it. Even then, the forward stepwise variable subsetting took 20 minutes each time. While I ended up pursuing the brute-force method, I did end up doing EDA at the end which basically corroborated everything that was produced below.
 
-Since our k-folds cross validation function only takes 4 variables, I used the model with the 4 best predictors to find what I should put into the k-folds cross validation function. The best 4 variables were out_prncp_inv, loan_amnt, int_rate, and term_36_months, which is a dummy variable created from the term variable 
+Since our k-folds cross validation function only takes 4 variables, I used the model with the 4 best predictors to find what I should put into the k-folds cross validation function. The best 4 variables were out_prncp_inv, loan_amnt, int_rate, and term_36_months, which is a dummy variable created from the term variable. 
 
 ```{r, echo = FALSE, fig.align = 'center', out.width = '60%'}
 knitr::include_graphics(here::here('_posts/2023-03-21-modeling-competition/best4.png'))
