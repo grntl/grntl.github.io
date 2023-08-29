@@ -2,7 +2,6 @@
 title: "NYC's Post-Pandemic Transit Recovery"
 description: |
   The state of New York City's post-pandemic transit recovery, and what we should do about it.
-draft: true
 author:
   - name: Grant Li
     url: {}
