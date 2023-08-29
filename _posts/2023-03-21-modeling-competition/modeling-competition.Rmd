@@ -92,7 +92,7 @@ After submitting this, it turns out that I was in the top 3 student submissions!
 ```{r, echo = FALSE, fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(here::here('_posts/2023-03-21-modeling-competition/pubRank.png'))
 ```
-Number 1 is a professor, Arvind Krishna, so he doesn't count. This was the public submission leaderboard, which only calculated the RMSE on 30% of the test data. I had no clue until the competition ended that there was also a private submission leaderboard that calculated the RMSE on 70% of the test data. That was the actual "final" ranking, where I was 9th, which still really good. 
+Number 1 is a professor, Arvind Krishna, so he doesn't count. This was the public submission leaderboard, which only calculated the RMSE on 30% of the test data. I had no clue until the competition ended that there was also a private submission leaderboard that calculated the RMSE on 70% of the test data. That was the actual "final" ranking, where I was 9th, which is still really good. 
 
 ```{r, echo = FALSE, fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(here::here('_posts/2023-03-21-modeling-competition/privRank.png'))
