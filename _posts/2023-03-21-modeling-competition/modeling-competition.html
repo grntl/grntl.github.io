@@ -1537,27 +1537,27 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <p>In the data science class I’m taking, they hosted a model-building competition across all three sections of the class, meaning there were at least 150 students participating, maybe 200. We had to build a model to predict the amount of money a bank would make back on a loan. The goal was to build a linear regression model that would produce the lowest RMSE.</p>
 <blockquote>
-<p>RMSE is Root Mean Squared Error. Basically you can think of it as a statistical measure to see how accurate your model is. In general you want it smaller.</p>
+<p>RMSE is Root Mean Squared Error. You can think of it as a statistical measure to see how accurate your model is. In general you want it smaller.</p>
 </blockquote>
 <h3 id="on-the-wrong-track">On the wrong track</h3>
-<p>At the start, I did VIF testing on all the continuous variables. The VIF testing showed that none of them were egregiously multicollinear, only 2 or 3 of them were in the 5-10 range, which our professors had said was not good, but can be accepted nevertheless.</p>
+<p>At the start, I did VIF testing on all the continuous variables. The VIF testing showed that none of the variables were egregiously multicollinear, only 2 or 3 of them were in the 5-10 range, which our professors had said was not good, but can be accepted nevertheless.</p>
 <blockquote>
-<p>VIF stands for Variable Inflation Factor, which basically just measures how much multicollinearity there is between your variables. Multicollinearity is where two variables are highly correlated, when really the variables in the model should be independent. VIF testing will give what you can think of as a multicollinearity rating for each variable, and usually having the number be below 5 means that it is good, whereas numbers from 5-10 are suspect, and above 10 means that the variable is highly correlated with another. The lower the number, the better.</p>
+<p>VIF stands for Variable Inflation Factor, which basically just measures how much multicollinearity there is between your variables. Multicollinearity occurs when two variables are highly correlated, where ideally the variables in the model should be independent. VIF testing will give what you can think of as a multicollinearity rating for each variable, and usually having the number be below 5 means that it is good, whereas numbers from 5-10 are suspect, and above 10 means that the variable is highly correlated with another. The lower the number, the better.</p>
 </blockquote>
-<p>Because our variable subsetting algorithms didn’t allow for categorical variables, I simply tried making models by running forward stepwise variable subsetting and then K-folds cross validation on the continuous variables and then adding categorical variables into the model after. I tried this for a day or two and it was clear that my RMSE wasn’t going to get under the 650 threshold that we had to get under for full credit on this assignment. It was stuck at 800 for a while.</p>
+<p>Because our variable subsetting algorithms didn’t allow for categorical variables, I simply tried making models by running forward stepwise variable subsetting and then K-folds cross validation on the continuous variables and then adding categorical variables into the model after. I tried this for a day or two and it was clear that my RMSE wasn’t going to get under the 650 threshold for full credit on this assignment. It was stuck at 800 for a while.</p>
 <blockquote>
-<p>Without getting too into the nitty-gritty, forward stepwise variable subsetting is a algorithm that allows you to pick the best set of predictors from your variables. K-folds cross validation is a method which helps compare and select models.</p>
+<p>Without getting too into the nitty-gritty, forward stepwise variable subsetting is an algorithm that allows you to pick the best set of predictors from your variables. K-folds cross validation is a method which helps compare and select models.</p>
 </blockquote>
 <h3 id="on-the-right-track">On the right track</h3>
-<p>I decided that instead, I would try turn all the categorical variables into dummies, and do it all over again.</p>
+<p>I decided that instead, I would try turn all the categorical variables into dummies and do it all over again.</p>
 <blockquote>
 <p>A dummy variable is essentially turning, for example, a variable that has yes or no responses into two separate columns of yes and no, with 1s and 0s as the response. This way, the data becomes numerical and can be put into functions that otherwise only took continuous/numerical variables. Additionally, it allows the model to choose only the dummy variables that matter, like perhaps only the yes column with 1s and 0s is statistically significant, and the no column with 1s and 0s is not.</p>
 </blockquote>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="vars.png" width="25%" style="display: block; margin: auto;" /></p>
 </div>
-<p>I technically should have done exploratory data analysis (EDA) and picked a few variables that would have worked best. But since my computer could handle it, I turned every single categorical variable into dummy variables, except emp_title and earliest_cr_line, since those had just way too many categories that it honestly wasn’t worth it. Even then, the forward stepwise variable subsetting took 20 minutes each time. While I ended up pursuing the brute-force method, I did end up doing EDA at the end which basically corroborated everything that was produced below.</p>
-<p>Since our k-folds cross validation function only takes 4 variables, I used the model with the 4 best predictors to find what I should put into the k-folds cross validation function. The best 4 variables were out_prncp_inv, loan_amnt, int_rate, and term_36_months, which is a dummy variable created from the term variable.</p>
+<p>I technically should have done exploratory data analysis (EDA) and picked a few variables that would have worked best. But since my computer could handle it, I turned every single categorical variable into dummy variables, except emp_title and earliest_cr_line, since those had just way too many categories that it honestly wasn’t worth it. Even then, the forward stepwise variable subsetting took 20 minutes each time. While I pursued the brute-force method, I did do EDA at the end that basically corroborated everything produced below.</p>
+<p>Since our k-folds cross validation function only takes 4 variables, I used the model with the 4 best predictors (as given to me by forward stepwise variable subsetting) to find what I should put into the k-folds cross validation function. The best 4 variables were out_prncp_inv, loan_amnt, int_rate, and term_36_months, which is a dummy variable created from the term variable.</p>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="best4.png" width="60%" style="display: block; margin: auto;" /></p>
 </div>
@@ -1576,11 +1576,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="bic.png" width="50%" style="display: block; margin: auto;" /></p>
 </div>
-<p>The curve says 33, but I found the 32 best predictors, not that the difference really matters that much. Here are some of them, since I literally can’t fit them in my screenshot.</p>
+<p>The curve says 33, but I found the 32 best predictors, not that the difference really matters that much. Here are some of them, since I literally can’t fit all of them in my screenshot.</p>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="preds32.png" width="50%" style="display: block; margin: auto;" /></p>
 </div>
-<p>I tested each one of them by adding them into the model formula that we got from the k-folds cross validation, and saw if it decreased RMSE. After doing so, the ones that decreased the RMSE by any appreciable amount were grade_a and total_rec_late_fee. The final model formula looked like this, including the selected interactions earlier:</p>
+<p>I tested each one of them by adding them into the model formula that we got from the k-folds cross validation, and saw if it decreased the RMSE. After doing so, the ones that decreased the RMSE by any appreciable amount were grade_a and total_rec_late_fee. The final model formula looked like this, including the selected interactions earlier:</p>
 <div class="layout-chunk" data-layout="l-body">
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># K-folds model with new predictors after testing predictors that appear in the </span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># 32 predictor model</span></span>
