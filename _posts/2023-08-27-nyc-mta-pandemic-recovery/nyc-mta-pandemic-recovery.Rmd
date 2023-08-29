@@ -56,7 +56,7 @@ Using ratios of each day's ridership to a comparable pre-pandemic day, we can se
 knitr::include_graphics(here::here("_posts/2023-08-27-nyc-mta-pandemic-recovery/avgMonthlyProp.png"))
 ```
 
-From the very start, bridge and tunnel traffic and Access-A-Ride ridership never collapsed to the same degree as the other transit modes. This is especially evident in Figure \@ref(fig:raw) where bus ridership actually fell below vehicle traffic passing through MTA bridges and tunnels. The recovery of bridge and tunnel traffic and Access-A-Ride ridership have also been the most robust, being the only two transit modes to have already reached pre-pandemic levels of usage. 
+From the very start, bridge and tunnel traffic and Access-A-Ride ridership never collapsed to the same degree as the other transit modes. This is especially evident in Figure \@ref(fig:raw) where bus ridership actually fell below vehicle traffic passing through MTA bridges and tunnels. The recoveries of bridge and tunnel traffic and Access-A-Ride ridership have also been the most robust, being the only two transit modes to have already reached pre-pandemic levels of usage. 
 
 Another way to look at the recovery is through the distribution of daily ridership using the same pre-pandemic ridership comparison ratios. Most days in this past year, traffic through MTA bridges and tunnels and Access-A-Ride ridership tended to be close to pre-pandemic levels, whereas other forms of transit are still behind. 
 
@@ -66,7 +66,7 @@ knitr::include_graphics(here::here("_posts/2023-08-27-nyc-mta-pandemic-recovery/
 
 Access-A-Ride's usage demonstrates the importance of transit for those with disabilities. Even during the pandemic, those with disabilities still had places to go, perhaps even more so than those without disabilities, who might in various ways have an easier time avoiding transit or simply switching to driving. 
 
-The bridge and tunnel traffic also signals that vehicle traffic is also pushing beyond 2019 levels. There is a chance that this means many who used to commute by public transit now use their private vehicles instead. If we look at historical bridge and tunnel traffic data, vehicle traffic is indeed higher than ever, continuing an upward trend from before the pandemic, as if the pandemic never happened.
+The bridge and tunnel traffic signals that vehicle traffic is also pushing beyond 2019 levels. There is a chance that this means many who used to commute by public transit now use their private vehicles instead. If we look at historical bridge and tunnel traffic data, vehicle traffic is indeed higher than ever, continuing an upward trend from before the pandemic, as if the pandemic never happened.
 
 ```{r car, echo = FALSE, fig.align = 'center', out.width = '100%', fig.cap = "Traffic through MTA bridges and tunnels"}
 knitr::include_graphics(here::here("_posts/2023-08-27-nyc-mta-pandemic-recovery/carTraffic.png"))
