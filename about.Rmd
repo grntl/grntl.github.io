@@ -2,14 +2,6 @@
 title: "About"
 site: distill::distill_website
 ---
-Hello! My name is Grant Li. My Chinese name is 李元. I was a student at Northwestern University where I studied English literature and political science, with a minor in data science. I was in the Northwestern University Marching Band (NUMB), Basketball Band, and Purple Band, which is a paid 29-piece ensemble that the athletic department arranges to perform at non-revenue sports events. Additionally, I worked in the Art Library and was a Farrell Fellow with the Deportation Research Clinic here at Northwestern.
-
-A FOIA data dashboard I built for the research clinic: https://grantli.shinyapps.io/foiaapp/
-
-I was Assistant Opinion Editor and Opinion Columnist during college: https://dailynorthwestern.com/staff_name/grant-li/#
+Hello! My name is Grant Li. My Chinese name is 李元. I like reading, drawing, running, piano, and the Utah Jazz. I recently graduated from Northwestern University with majors in political science and English literature, and a minor in data science. There, I was an Assistant Opinion Editor and Opinion Columnist on The Daily Northwestern, a member of the marching band (NUMB), and a Farrell Fellow with the Deportation Research Clinic.
 
 My goodreads: https://www.goodreads.com/user/show/103275829-grant-li
-
-Here is my resume: https://tinyurl.com/ma7zck65
-
-I also like art (hence the pun in the url), classical music, and the Utah Jazz.

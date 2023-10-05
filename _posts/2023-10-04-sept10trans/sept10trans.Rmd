@@ -1,0 +1,153 @@
+---
+title: "Translation of 9-10-23 Sermon"
+description: |
+  A transcription and translation of my pastor's sermon delivered on Sep. 9, 2023
+author:
+  - name: Grant Li
+    url: {}
+date: 2023-10-04
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+---
+
+*This is my transcription and translation of a sermon that my pastor gave on September 10, 2023. My pastor gave me permission to post this here. Names have been changed.*
+
+在我小时候，我学校里有一个叫放心班的课程。但是，实在在我上完放心班我回到家里离我妈回到家还有一段时间，可能有大概一个小时，一个半小时。然后，我从学校回家，我第一件事就是赶紧打开电脑，因为我要玩游戏，因为我要抓紧在那一个半小时赶紧玩游戏。因为我妈不让我玩游戏，她只让我周末玩，所以我就要确保我一个半小时之内我要完了游戏，然后把那个关掉。我妈穿高跟鞋，我家住在六楼。我听到她高跟鞋哒哒哒一级一级上来，我就明白了，赶紧关机准备迎接她，装得什么都没有发生。我也知道，我们有朋友喜欢看电视，就是也跟我一样。但是，这个要斗智斗勇，因为电视看的时候后面会热，所以有的家长他们回来摸一摸那个电视就知道了，“哎，你是不是看电视了？”我们的指挥就是要用水给它降降温。所以就是一个斗智斗勇的环节。
+
+When I was little, my school had a child-sitting program for kids. Still, there was still an hour to an hour-and-a-half between when I returned home from school and when my mom returned home. The first thing I did when I came home was to turn on the computer to play videogames, since my mom would not let me play otherwise during weekdays. In that hour-and-a-half, I made sure that I played my videogames and turned off the computer before my mom came home. My mom wore high heels, and our apartment was on the sixth floor, so when I heard the “da-da-da” sounds of the high-heels coming up the stairs, I would quickly turn off the computer to be ready to welcome her home as if nothing had happened. I also knew friends who liked watching TV, but it’s like a battle of the wits because TV’s will get hot after use. Some parents would feel the TV and know if their kids had been watching. Our trick was to use water to cool down the TV but regardless, it was a battle of the wits.
+
+耶稣，他的讲道就是差不多的道理。他说，这个世界就是好像这样的情况，就好像他说耶稣，神，有一天会回来。但现在，就好像这个世界没有神就像这个孩子自己呆在家里。
+
+Jesus also spoke of our world as being in a similar situation. One day, Jesus, God, will return, and our presence on Earth is like staying at home alone. 
+
+我再举一个例子，也是我感觉到的。我们小学上学的时候有自习课，然后老师会去办公室，然后老师去往办公室，整个教师里面就变成不一样的形象。最害怕的是什么？最害怕的是老师突然回来。最怕的是我们在闹的时候看到老师的脸出现再后门的玻璃，那就完蛋了。我们都有一个假设，就是老师既然走了，他不会马上就回来。就好像是说，如果老师不马上回来，这段时间就是属于我们自己的时间。干什么都有，还有人用那个电脑放电影。只要你确保把一切都收拾好，老师回来所有人都在自习就好。
+
+Let me give another example. My school had a self-study period where the teacher would go back to their office. As soon as the teacher was on their way, the entire classroom would transform into an entirely different scene. What were we most scared of? We were most scared of the teacher returning suddenly, or seeing the teacher’s face in the glass of the back door, then we’d be screwed. We were all working with the assumption that since the teacher had left, they would not come back immediately, and that if the teacher leaves, then this short amount of time would belong to us, students. We did everything: some students even put movies on the computer. We just had to make sure everything was back in place and everyone looked as if they were actually studying when the teacher returned.
+
+好像我们今天的世界也是一样。就好像耶稣说的，他现在不在的这段时间，好像就像我们现在人就干什么都可以。就像那个孩子一样，觉得既然神还有一段时间才会回来，那现在我们就做我们想做的事。我在家里我玩电脑，在教室里我有跟人讲话，然后我们玩那种奇奇怪怪的游戏，打牌，玩那种桌游，什么都干。我们世界也好像是这样，在神回来之前，人就觉得什么都能做。因为我们好像有一个假设，神不会马上就回来，就心里都觉得，反正家长不会回来，所以我们就任意而行。
+
+Our world today is somewhat like this. It’s like what Jesus said, where during this time that Jesus is gone, we can do whatever we want. It’s like being in the house and playing on the computer, or chatting in the classroom, playing all sorts of weird games. Cards, board games, everything. Our world is kind of like this, that before God returns, we can do anything. We have this assumption that since the parents are gone anyways, let us do as we desire.
+
+其实，我们一直都没意识到的一点：我们所生活的世界远比我们想像的要更加脆弱。什么意思呢？如果我们中间有很多年纪比较长的长辈，那他们就觉得今天我们的世界跟他们二十岁的时候的世界好像完全换了一个世界一样。甚至，除了人还是人，除了人之外，其实我们世界已经完全不一样了。
+
+In reality, we’ve overlooked a major point about life: our world as we know it is much more fragile than we imagine it to be. What do I mean by this? The elderly among us probably find the world today to be completely different from the one they knew at 20 years old, as if worlds were swapped out. Besides people still being people, just about everything else has changed.
+
+我前段时间看了一个电影叫《奥本海默》，就讲他们造原子弹的过程：好像在人有原子弹之后，他发现这个世界整个都改变了，就好像我们的世界其实建立在一种脆弱的平衡之上。你有原子弹，我有原子弹。世界的平衡建立在，如果你用原子弹打我，我可以确保我原子弹足够用，可以把你毁掉。这就是我们世界建立在一个很脆弱平衡之上。
+
+I recently watched a movie called *Oppenheimer*, which is about the invention of the atomic bomb. The movie talked about how the world seemed to change after the creation of the atomic bomb, people realized our existence was built on a fragile equality. You have a nuke, I have a nuke, our equality is a mutually assured destruction such that if you send a nuke my way, I will have powerful enough nukes of my own to ensure that you will be wiped off the face of the earth. This is that fragile equality and existence our world is built upon.
+
+那更加不要说，好像大家觉得世界都会发展，然后到二零一九年，突然COVID就来了。我们意识到，我们人类文明也好，世界也好，好像会因为一个传染病，好像全部都停下来了。大家失业了，甚至去世了。当我们觉得我们的生活，我们的世界会这样一成不变地一天一天下去的时候，不管是核弹，还是疾病，还是传染病，就会觉得我们的世界在随时的任何一个时候都会可能因为一点小事发生天翻地覆的变化。
+
+Not to mention, everyone thought that the world was progressing along steadily until 2019 when COVID arrived. We realized that our culture and society be as it may, that at any moment because of an infectious disease everything seemed to come to a stop. People lost jobs and even died. Just as we thought our lives and the world would move along without second thought, whether it is a nuclear bomb or disease, it’s now as if any small thing can turn our world upside down.
+
+如果说我们学得核弹改变了世界，COVID也改变了世界，那下一个我就不知道是什么，可能是AI，应该是人工智能。这些东西出来了之后，我们整个人的生活，甚至说每个人的生命，都有此改变了。我都不用讲了，现在的小朋友出生的时候就感觉手机是长在手上。我们的生命是也有所改变。
+
+If we have learned that nuclear weapons transformed our world and COVID changed our world, then I don’t know what the next thing might be, maybe AI. After these things happen, our lives, even the conditions of life itself, undergo changes. It goes without mentioning that today’s toddlers seem to have come out of the womb with a phone grown onto their hand. 
+
+如果我们看到我们人的社会是这样脆弱的一个东西，我们就不会惊讶，如果说耶稣基督真的回来改变了整个世界。如果说人的力量都可以造出这样原子弹，那还是只是这个自然世界当中力量的一小小部分，那我们会怀疑神有比这更大的力量吗？那我们还会怀疑如果说耶稣真的有一天回来，我们人类的整个都会完全地反转吗？
+
+If we see that our world and society are such fragile things, then we shouldn’t be surprised if Jesus Christ returns and transforms the world. If human power can create such things as the atomic bomb, which is only a fraction of the natural forces of nature, then how can we doubt that God will be all the more powerful? Will we really doubt the transformative power that Jesus would bring upon his return?
+
+第一次耶稣来，就好像我们这个教师里面班长来了，他告诉你老师要回来，他告诉你老师有一天，马上可能就要回来。但是，耶稣比较惨。他回来，他告诉众人神有一天会回来，大家就把这个班长打死了，然后说老师永远不会回来，你在扯淡。耶稣的生命就是这样的生命。他回来告诉人说，“我告诉你们神的国要来了，”但是人却用残忍的方式把他钉在十字架上。
+
+The first time Jesus came was as if the head student had warned everyone of the teacher’s imminent return. However, Jesus was a little more unfortunate. He told everyone that God was coming back, but they killed the head student, saying “you’re lying, the teacher will never come back.” That was Jesus’s fate. He came and told people, “I tell you, the Kingdom of God is coming,” but the people treated Him as a criminal and nailed Him to the cross.
+
+这个整个世界，神再来要重建这整个世界的秩序，但同时他又说没有人知道这个时候在哪里。没有人知道。他甚至说，人不知道，甚至他说人子也不知道，只有父知道。所以就问了他“哎，你不知道到底什么时候回来？你只知道一定会回来？”这就让人觉得有点头晕。有人就抓着这个空隙。就像耶稣说的，他说有人会告诉你耶稣基督会回来。
+
+God is coming back to reformulate our world, but He simultaneously also said that no one will know when. He said no one knows: not the people, not the Son, but only the Father. It invites questions, like, “you don’t know when He will return but you know for sure it will happen?” It makes people confused, and some people take advantage of the information gap.
+
+大家知道有一个宗教组织，它叫耶和华见证人。它其实是一个邪教。为什么？它说在两千年的时候耶稣就会回来。两千年，这个时间也看得挺吉利的，我也不知道为什么它们选两千年。就像好像到了两千年，耶稣就会回来，世界就会改变。关键是为什么它们要给一个具体的时间呢？它给了一个具体的时间就说，反正明年就两千年了，明年耶稣就回来了，那你留着钱还干嘛？赶紧都捐给教会，明年也不用报税。把钱全捐给教会就好了！然后大家就把钱捐给它，因为它说耶稣明年就来了。两千年到了，耶稣还没有来，但是耶和华见证人今天还在。我就不知道它们怎么原回来的，反正它们是原回来了。
+
+People might know of a religious organization called Jehovah’s Witnesses. They’re actually a heresy. Why? They say that 2000 years will pass before Jesus’s return. 2000 years, this timing is quite auspicious. I don’t know how they chose 2000 years. But the key is, why do they give a specific time? They do it so that they can say, next year is 2000 years, Jesus is coming back, so what are you saving all that money for? Hurry and donate it to our church, you won’t have to pay taxes next year anyways, give us all your money! And so people do it, thinking Jesus is coming back the next year. Well, 2000 years have passed and Jesus has not returned, but Jehovah’s Witnesses are still around. I don’t know how they explained that away, but they did.
+
+如果说我们知道耶稣会回来，但是耶稣又不是说没有人知道他什么时候回来，那我们要怎么生活？这其实是蛮难的。老师要回来，但是你又不知道什么时候回来。那是不是时时刻刻都要好好地做一个好学生？这就是耶稣说的。你时时刻刻都要警醒。真的做自习课，你时时刻刻都要自习。我在家里面我也要做作业。这样，我妈妈，老师，突然回来的时候看到我就知道我有在做作业，我一直有在做作业。
+
+So if we know that Jesus is coming back and yet nobody knows when, then how should we live our lives? This is actually a pretty tough question. The teacher is coming back, but you don’t know when. Then should you be diligently studying at every moment like a good student? This is what Jesus said. You must be alert at all times. Actually be studying during study hall, or actually do homework, such that when my mother or teacher suddenly returns, they will know that I have been doing my homework the entire time. 
+
+耶稣说他会再回来，但是他们不知道什么时候，所以我们的人生要随时做好准备。但这种准备，又不是说我们把自己所有的钱全部都捐给教会。如果谁有感动你可以这么做，但是我不推荐你这么做。为什么？因为我们每个人都还要生活。耶稣他回来的时候，还有人在嫁娶。耶稣说，他回来的时候还有所有的人都像正常的人一样在生活。就好像不知道什么时候会来，所以我们要像好像纪要时刻准备的，但又好像要活出一个生活，可以持续性的，可以有持续下去的生活。举一个例子：大家都知道[人X]明年要结婚。很好，他七十多岁了，神也祝福他，找到一个伴侣。不会说，反正耶稣要回来，我就不结婚了，反正耶稣要回来，我就不工作了。而是说，要好好地工作，好好地生活，但是要在生活上，生命上做好准备，他随时都会回来。
+
+Jesus is coming back, but nobody knows when that will be, so it seems that we must be prepared at every moment. This preparation is not to give all your money to the church. If you feel moved to do so, you can, but I don’t recommend it. Why? Because we still have to live out our daily lives. When Jesus came, there were still people getting married. He said, when He comes back everyone will be living out life normally. So it’s as if Jesus can come back at any moment and thus we must be prepared at all moments, but somehow still carry out life with a regular sense of continuity and normalcy. For example, everyone knows that [Person X] is getting married. Good for him, he’s 70, God has blessed him by helping him find a partner. It’s not like, well Jesus is coming back regardless, so I’m not getting married, or Jesus is coming back, so I’m not going to work. Rather, it’s to say we should live life well, but in living out our lives and our general existence to do the additional proper preparations for His imminent return.
+
+那我们要在生命上做怎样的准备？我们在生命上要如何预备好我们的生命，在我们的正常，日常的生活中有预备好的生命来迎接耶稣？
+
+Then how should we make preparations in our life? How should we prepare our lives, our quotidian, day-to-day existence to properly receive Jesus?
+
+我要讲到耶稣举的一个例子，我应该叫做《耶稣要投资》。耶稣是会投资。耶稣没投资可能是因为他没有钱。我不知道，这个是开玩笑，不要当真。耶稣讲投资，以前之前我们也讲过这段经文。讲到耶稣投资，在马太福音里面他说，有的人给他一千块，有的人给他五百块，有的人给他两百块，就是给每个人不一样的启动资金。这个例子差不多就是说，做忠心有见识的仆人，仆人要干一件什么事情？要帮他的老板投资。老板不在的时候要，你要帮他投资。
+
+I am going to talk about one of Jesus’s parables, which I will call “Jesus Invests.” Jesus knows how to invest, He probably just never did it because He had no money. I don’t actually know, this is a joke, don’t take it too seriously. Jesus talked about investing, and we previously discussed this passage before. In Matthews, a person was given a thousand coins, another 500, and another 200, each got some startup money. This parable was about what a faithful and knowledgeable servant should do. The servant must help the boss invest, that when the boss is not present the servant helps with investing.
+
+其实蛮好玩的，我这边多讲两句。大家知道现在中国有很多有钱人，然后美国也有很多有钱人。他们会有那种冬天的房子，夏天的房子。这个房子很大，然后房子也好。但是，你说这个房子要是没有人住，它就会开始腐烂，它一定要有人住，房子总要有人气。所以他们请人住他们的大房子。不仅请人来住，他们还要给他们薪水让他们住大房子。好像这个清的雇来的那个保姆是这个房子的主人一样，花钱给人家住大房子。
+
+This is pretty interesting, so let me say a bit more. Everyone knows that China has a lot of rich people nowadays, and America, too. They have their winter homes and summer homes, which are nice and big. But if the house has no occupants, it will begin to degrade. The house must have occupants, it has to have a human atmosphere to it. So the rich will invite people to live in their homes and not just that, but pay them to do so. It’s as if the tenant is the actual lord of the house, being paid to live there.
+
+好像耶稣在这里做的也是这样的的比喻。他说，这个仆人他们好像有从主人袋里拿来的钱，而且要用这个钱去为主人做投资。那投资的真谛是什么？其实我不会投资，我也没有钱，所以我不应该用这个词。我知道怎么样投资你可以赚大财，就是用一些非法的方式。什么非法的方式？要是你知道内幕消息你肯定能赚大钱。我举一个例子：美国现在就要发展芯片。要是你知道美国联邦政府他的钱要投到哪个公司里面去，你比其他人都早知道，你去买那个公司的股票，然后那个消息一出来，肯定会涨。但是这个是非法的，大家不要这么做。一般是我们都是应该是没有人提前知道消息，就是内部放出来的。
+
+It's as if Jesus is making a similar metaphor here. These servants, He says, have money directly from the lord’s wallet and they are to invest. What is the secret to investing? I don’t know how to invest, and I don’t have money, so I shouldn’t use this word. I do know how to make a lot of money, though, using some illegal methods. What illegal methods? If you have insider information, you will definitely earn tons of money. Let me give an example: America wants to build out its semiconductor industry. If you know before everyone else where the federal government is going to put its funding next, you can buy that company’s stock and it will for sure rise when the information is made public. But this is illegal, please do not do this. I don’t think any of us has insider information, just official announcements.
+
+如果我们说你预知未来，那你肯定投资也能赚大钱。比如说时间回到二零一八年或者二零一九年，你知道COVID马上就要来了，然后你要买股票，你买什么？你买zoom，你买视频会议软件。你一买你肯定赚大钱，因为你知道。你再回早一点，你买Tesla你也赚大钱。所以我现在没办法教大家投资。但如果说，你能预知未来，你知道将来要发生什么，你投资你肯定能赚大钱。
+
+If we could predict the future, then we would certainly make huge returns. For example, if we returned to 2018 or 2019, you know COVID is about to come, what stock would you buy? Zoom, you would buy video conferencing software stock. If you buy, you will definitely earn money because you're in the know. Go back even earlier, buy Tesla stock and you will also make lots of money. So I can’t teach people how to invest right now, but if you can predict the future, you can get big returns.
+
+对耶稣来说，耶稣的教导，其实你知道将来会发生什么。你知道耶稣将来会回来。你知道耶稣将来会回来之后，他会在地上统治万有，那你要怎么投资？你已经有了最强的从耶稣来的内幕消息，你知道的。
+
+For Jesus, Jesus’s teachings, you all actually know what will happen in the future: Jesus will come back one day. You know Jesus is coming back and will rule over all things, so how will you invest? You have the strongest insider information directly from Jesus.
+
+所以耶稣说，你不仅要知道这个消息，你要用神给我们的恩典，去把自愿去投资。投资什么？投资在未来的神国上面。不亏的！弟兄姐妹们，这个是不会亏的。你投资一切东西都有可能亏，但你把你的资源，你把你的人生投资在神国上不会亏。甚至不单单是要放一些钱进去，我们中国人说，你可能赚了钱，你有一点积蓄了，你偷一点点钱在这个股票上。但是，耶稣的神国值得我们弟兄姐妹押上一切。耶稣的神国值得我们投进我们的一切去投资。All in。
+
+So Jesus said, you not only have this information, you have to invest the resources given to you by the grace of God. Invest in what? Invest in the coming Kingdom of God. You will not make a loss! Brothers and sisters, you cannot make a loss. You can invest in an eternity of things and they could all end up being a loss, but if you invest your resources and life into the Kingdom of God, you will not lose. And not just some amount of money, or like how us Chinese people say, earn money first and once you’ve accumulated enough put a small amount into stocks. No, the Kingdom of God is worth us staking our everything, brothers and sisters. The Kingdom of God is worth betting our all on. All in.
+
+如果真的我们来在回想一下，我听到太多的人，尤其是像我这一代，一个人如果能吃饱饭之后，他解过吃饱饭之后他就要问人生的意义是什么。一个人吃饱饭之前可能要考虑下一顿饭从哪里来。一个人能吃饱饭，像我们这代有的人不仅能吃饱饭，甚至上物质生活非常富足,他会要问人生的意义在哪里，人生的目的在哪里，会说人生到底有没有意义。会发现，其实我们的人生如果只在意我们自己的话，如果我们的生命之关于我们自己的一生，可以说我们的人生是没有意义的，可能就跟我的狗一样。我不是在骂它，对不起。我只是很多时候看着我的狗，我会问，你的狗生有什么意义？“你这一生有什么意义？”我发现它只要吃饱饭它就不去要思考这些问题。它每天思考的就是睡觉、吃饭、哪里睡觉、哪里吃饭、哪里出去玩。它根本不关心它生命的意义在哪里。显得我有点蠢。显得人好像去思考人生的意义在哪里。
+
+If we reflect for a moment, I have heard way too many people, especially those of my generation, say that only once a man has eaten can they consider the questions of life. Before a person eats, they perhaps need to focus on where they’re to find their next meal.  Only once a person has eaten, and for my generation, many not only can eat a full meal but are materially wealthy, will they start asking questions like what is the meaning of life or if there is any meaning to life at all. They’ll find that if our lives are lived for ourselves only, it’s actually pretty empty of meaning, kind of like a dog. I'm not scolding him, sorry. It’s just that many times I’ll look at my dog and wonder, “does your life have any meaning?” I’ve found that as long as he eats until he’s full, he doesn’t think about anything else. Everyday, his only considerations are sleeping, eating, where to sleep, and where to eat. He doesn’t care about the meaning of life, which makes me seem a little silly for thinking about all this.
+
+其实换句话来说，我们的生命要投资在哪里？如果我们的生命只有我们自己的话，那确实是没有意义。如果真的去回想那些我们生命中真正觉得有意义的东西，其实都不在乎于我们自己。最多关于我们的家庭、关于我们的子女、关于我们的钱。有的人意义就在钱哪里，甚至有的人把意义就放在宠物那边。你觉得我在看玩笑，其实很伤心的是我没在看玩笑。对的，我碰到很多病人躺在医院里，我说什么东西给你的人生意义，然后他说了一个名字。然后我说“这是你的家人吗？”他说，“不，这是我的猫。”他说，“我在医院里面天天都想他。”
+
+To put it another way, where should we invest our life? If our life only has ourselves, then there really is no meaning. If you really think about all those things that you find meaningful, they actually don’t have anything to do with ourselves. At most, they are about our family, kids, and money. Some people find meaning in their money, some even find meaning in their pets. You think I’m joking, but sadly I’m not. Yes, I met many patients in the hospital who when I asked what gave their lives meaning, they’d say a name. I’d ask, “Is that a family member?” and they’d reply, “No, it’s my cat.” They’d say, “I miss my cat everyday in the hospital.”
+
+我们的意义会发现如果真的要从我们的自己的身体里面或者从我们自己的人生里面找意义，很难找到。都是从外面，把我们的生命好像投资到别的东西上面，那个东西就有了意义。比如说，我们花了很多时间，那时间我们都花在哪里？如果你仔细看一下你的时间花在哪里，很多时候你觉得有意义的事情就在那里。那你花很多时间玩手机，就比如说你花八个小时玩手机，对你来说最有意义的事情可能就是娱乐或者玩手机。但其实我觉得手机还有点社交的功能。那有的人喜欢滑雪。我知道以前我有朋友在教会，然后滑雪滑得，教会都不来了。可能滑雪对他们来说比较会更有意义。
+
+We will discover that when we have to derive meaning for our lives from ourselves, it’s really hard. It’s always external, if we invest our life upon something else, that thing will become meaningful. For example, if you spend a lot of time on something, what is that thing? If you look carefully at what you spend a lot of time on, that usually will be the thing you find meaning in. So if you spend a lot of time playing on your phone, say 8 hours, then to you the most meaningful thing is probably entertainment or playing on your phone. Although, actually I think phones have an additional social media capability. Now some like to ski. I know a person who once went to church and then skied so much they stopped going to church. Perhaps skiing to them is more meaningful than church.
+
+我们结合一下：如果说我们知道耶稣要再来，我们也知道我们的人生只有在投资其他东西的时候才变得有意义，那我们的生命应该投资在哪里？我们生命该在投资在哪里才是对神国负责任？这里就要讲到我一直要引用的一段经文：就在马太福音最后，在耶稣讲完投资之后，他就说神要再来，耶稣要再来，就好像世人都要分成两批，一个在左边，一个在右边。神那个时候要检院你们投资的成果，是亏还是配。
+
+Let’s join these two concepts together: if we say we know Jesus will come back and we know that our life will only have meaning once we invest it in something else, then what should we invest in? How should we invest in a way that is responsible to the Kingdom of God? Now I must talk about a Bible passage I’ve always wanted to quote. The Book of Matthews says, after Jesus finished talking about investing, Jesus will come again, God will come again, and the people of the world will be split into two groups: one on the right and one on the left. God at that time will inspect the fruits of everyone’s investments for gains and losses.
+
+如果我们仔细想一下的话，耶稣在这方面讲得其实非常地严重。或者你是因为你的投资你的生命得到荣耀，要么你没有完成神的投资你就被扔到黑暗当中，哀哭切齿。要么得荣耀，要么被剥夺一切的荣耀。没有中间的，没有中间的说你不配不赚，维护公正，没有的。要么你荣耀神，要么你被身所审判。
+
+If we look closely, Jesus spoke very severely about this. Either you earn glory for your investments, or you are cast into the darkness for failure to achieve the investments God wanted, weeping and gnashing your teeth. Either honor or eternal alienation from glory. There is no in between, there is no middle ground to say you didn’t make gains, you simply kept the status quo, none of that. You either glorify God, or you will undergo His judgement. 
+
+马太福音第二十五章后面，一边是山羊，一边是绵羊，然后山羊就是要受审判。绵阳承受神一切荣耀。这个区别在哪里？你肯定会很惊讶。很多人觉得绵羊是不是受洗的，山羊就是没受洗的，绵羊是来教会的，山羊是没来教会的？没有这些。耶稣他投资的标准，他要我们人生投入进去的任务其实不在于这些。他对山羊先说，“我渴的时候，我饿的时候，我在监狱里的时候，你们为什么没有来看我？”他说，“我渴的时候为什么没有给我喝，沃尔得时候为什么没有给我吃？”然后山羊那群人就很惊讶，他们说，“你是主耶稣基督，你什么时候会渴，你什么时候会饿？你难道不是万有的吗？”然后耶稣对山羊说，“你们这些事情没有做在我最小的弟兄身上就是没有做在我身上。”那对于绵羊来说，绵羊也问，他们说，“你是主耶稣，你是主耶稣–我们什么时候能够给你吃，给你喝，然后也把衣服放在你身上？”然后耶稣也说，“你们只要把这些事做在我最小的一个弟兄身上，就是做在我身上。”他说，“所以你们可以进来享受神的国。”
+
+Matthews 25, on the one side are the goats and the other sheep. The goats are to be subject to God’s judgement, while the sheep will receive eternal glory. Where does the difference lie? You would be surprised. A lot of people think maybe the sheep are the ones who were baptized, and the goats the ones who weren’t, or perhaps the sheep come to church and the goats don’t. None of these. Jesus’s standards for investment, the task of investing which Jesus laid before us have no connection to those things. Jesus first said to the goats, “When I was thirsty, when I was hungry, when I was imprisoned, why did you not come to my assistance?” And then the group of people symbolized by the goats were surprised, saying, “you are the Lord Jesus Christ, when are you ever thirsty, when are you ever hungry? Are you not the all-powerful?” And Jesus replied, “These things, if you do not do them for the least of us, then you have not done them for me.” Then Jesus addressed the sheep, and the sheep asked “You are the Lord Jesus Christ, You are the Lord Jesus Christ––when could we ever feed you, quench your thirst, or clothe you?” And Jesus replied, saying, “So long as you do these things for the least of us, you have done them to me. And thus, you have been invited to enjoy the Kingdom of God.”
+
+弟兄姐妹们，绵羊与山羊的分别，我们人生要投入在哪里，弟兄姐妹们：眼睛要打开，要看见，要看见我们生命当中是有那些弟兄姐妹，甚至有那些人是神放在我们生命当中要我们去服侍他。要我们去爱。那些不起眼的。那些我们觉得好像没有什么，甚至觉得不值得去爱。所以耶稣说，你只要把事做在这最小的一个弟兄身上就是做在我身上。
+
+Brothers and sisters, the difference between the sheep and goats, what we should invest our lives in: open your eyes, brothers and sisters, look. Look to see which brothers and sisters in our lives, or even people in general, has God put in our lives that we might serve them. That we might love them. Those who are overlooked. Those whom we think don’t have much, or don’t even seem worthy of loving. So as Jesus said, if you do these things for the least of us, you have done them to me. 
+
+但是反过来，如果说我们的眼睛是闭上的，我们好像脑子里只有耶稣，但是却忽略了我们身边当中的一切的人，耶稣回来的那天就会哀哭切齿。要么得荣耀，要么哀哭切齿。弟兄姐妹们，在我们的生活当中，我们把自己的心投在哪里？我们把我们的生命投在哪里？我们是否真的有把我们的生命投入在爱弟兄姐妹身上？还是觉得我可以只爱耶稣，却可以不把我的生命投入在爱别人的身上。耶稣说这样的人要跟那些假冒为善的人，一同哀哭切齿。我们的心好像觉得与神在一起却没有爱人的心，那我们就跟假冒为善的人是一样。
+
+Conversely, if our eyes are closed, if our mind is only filled with Jesus that we neglect all those people who are around us, then the day Jesus returns you will also weep and gnash your teeth. Either you earn glory or you weep and gnash your teeth. Brothers and sisters, in our lives, what have we invested our hearts in? What have we invested our lives into? Have we in fact invested our lives in loving our brothers and sisters? Or do we think we can only love Jesus and not also love those around us. Jesus says that those kinds of people will weep and gnash their teeth with the hypocrites. If it seems in our hearts that we are with God, yet lack a loving heart, then we are hypocrites.
+
+弟兄姐妹们，我不知道在你们生命当中神怎样在你们生命中做工。我不知道你把生命投资在哪里。我不知道你把你的时间花在哪里。我不知道你把你的钱话在哪里。但是我有一个导师这样跟我说：他说“你会为了你真正珍视的东西去花钱跟花时间。”就像主耶稣，他说，“你的财宝在哪里，你的心也在那里。”当然这个情况是我的导师要让我去看心理咨询师，然后我说太贵了，然后他说，“不行，如果你真的很重视你的心理健康，你就会花钱去找一个心理咨询师。”最后我还是没有去看。
+
+Brothers and sisters, I don’t know how God works in your lives. I don’t know what you have invested your life towards. I don’t know what you spend your time on. I don’t know where you spend your money. But I had a teacher who said to me that what you value is what you spend time and money on. Like the Lord Jesus Christ said, “Where your fortune is, there your heart is.” Of course, the context was that my teacher wanted me to see a therapist, but I said it was too expensive, to which he said, “No, if you truly care about your mental health, you will spend the money to find a therapist.” I didn’t in the end.
+
+其实就是一个这种同样的道理，很简单的道理：就是我们会为了自己觉得重视的东西，我们会为了自己爱的东西，觉得有价值的东西去服上自己的生命，金钱，还有时间。我请弟兄姐妹们重新地再一次来审视自己的生命。是否我们真的把自己的心放在爱人上？是否我们真的把心放在给那些有需要的人上，有需要的弟兄姐妹身上？因为好像弟兄姐妹们，包括我自己，我也有拖延症。我有拖延症，我就等到讲到几分钟准备好，所以看到以前[人Y]上来讲到的时候周二就把这个讲到全部准备好，我心里有点惭愧。我有拖延症，我什么事情都要拖延，拖延到最后一刻拖不下去了就把它完成了。
+
+But it’s a similar sort of logic, a very simple reasoning: for the things we find important, love, and value, we will offer up our life, money, and time. I invite brothers and sisters to rethink your life. Have we really put our hearts towards loving others? Have we really put our hearts toward loving those who are needy, the brothers and sisters who are in need? Because a lot of us brothers and sisters, including me, have a procrastination problem. I have a procrastination problem, I always wait until the last minute to prepare my sermon, so in the past when [Person Y] had his sermon prepared by Tuesday, I always felt a little guilty at heart. I push everything to the last moment until it can’t be put off anymore, and then I do it.
+
+主耶稣也是叫我们不要拖延。那万一我们今天拖了，今天就来了，怎么办？如果说这个截止日期就在今天，如果说我们要计划地好好的说，“哦，我今天先把这个重心，先把心放在自己的生命上面，然后等到三十年之后，我这个retirement plan做完了，然后我再开始爱人,”那你不知道耶稣会不会明天就回来。万一我们还在为自己积财的时候，我们还在做自己的退休计划耶稣回来了，那我们就要哀哭切齿了。
+
+The Lord Jesus Christ calls on us not to procrastinate. What if we put it off for a day, and that very day Jesus comes, what then? If the deadline is today, or if we say, “let me first put my focus on myself and in thirty years when I’ve completed my retirement plan I will start loving others,” you have no way of knowing Jesus won’t come back tomorrow. What if in the midst of still accumulating our wealth, working towards our retirement plans, Jesus comes back––then we’ll weep and gnash our teeth.
+
+所以不管我们在生命的什么样的阶段，像年轻的时候，我想彼得跟随耶稣的时候就跟[人Y]差不多大。[人Y]这么大的时候彼得开始跟随耶稣了。不管我们人生处在什么样的阶段，不管我们年龄在什么样的情况，甚至不管我们手里有多少钱，我们都可以爱人。我们甚至应该马上开始爱人。爱人不能拖延。为神预备不能拖延。
+
+So regardless of what stage of life you are in: like the youth, I think Peter was about the same age as [Person Z] when he began following Jesus. Peter began following Jesus at [Person Z]’s age. Regardless of where we are in the stages of life, regardless of our age situation, or even regardless of how much money we have, we can all love. We should even start loving immediately. Loving cannot be procrastinated. Preparing for God’s return cannot be procrastinated.
+
+当耶稣基督再来的时候，当我们再次面对我们的住耶稣基督的时候，我们可以向保罗一样，说这美好的仗已经打过了。可以说我们在地上的每一天可能尤其有福，那我们把每一天都尽力地、尽心地、尽意地来服侍我们的神和我们身边的人。
+
+When Jesus Christ returns, when we once again face the Lord Jesus Christ, we can be like Paul, saying we fought the good fight. We might be able to say that we were especially blessed, that we could put our strength, our hearts, and our minds towards serving God and those around us.
+
+
