@@ -1,7 +1,7 @@
 ---
 title: "Translation of 9-10-23 Sermon"
 description: |
-  A transcription and translation of my pastor's sermon delivered on Sep. 9, 2023
+  A transcription and translation of my pastor's sermon delivered on Sep. 10, 2023
 author:
   - name: Grant Li
     url: {}
